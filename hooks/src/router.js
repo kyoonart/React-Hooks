@@ -12,10 +12,11 @@ function List() {
     });
     return <h2>List-Page</h2>;
 }
-
+// 要考试了 改天学
 function Example() {
     const [count, setCount] = useState(0);
     const [sex, setSex] = useState("man");
+    const [work, setWork] = useState("soft");
     const [work, setWork] = useState("soft");
     return (
         <div>
