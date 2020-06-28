@@ -15,11 +15,9 @@ function List() {
 // 要考试了 改天学
 // +1
 // +1
-
 function Example() {
     const [count, setCount] = useState(0);
     const [sex, setSex] = useState("man");
-    const [work, setWork] = useState("soft");
     const [work, setWork] = useState("soft");
     return (
         <div>
