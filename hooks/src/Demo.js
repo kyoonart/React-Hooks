@@ -21,3 +21,4 @@ function Example() {
     );
 }
 export default Example;
+//用 useContext + useReducer 替代 redux
